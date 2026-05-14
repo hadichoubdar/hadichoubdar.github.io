@@ -26,13 +26,28 @@ sections:
       # Need a custom icon?
       # Add an SVG image to the `assets/media/icons/` folder and reference it in the `icon` field below
       buttons:
-        - text: Read my latest paper on LLMs
-          icon: academicons/arxiv
-          url: https://arxiv.org/abs/2304.01852
-        - text: Watch my new YouTube video to achieve 20x productivity
-          icon: brands/youtube
-          url: https://youtube.com
-        - text: Connect with me on LinkedIn
+        - text: LinkedIn
           icon: brands/linkedin
-          url: https://linkedin.com
+          url: https://www.linkedin.com/in/hadi-choubdar-32b81512a
+        - text: Google Scholar
+          icon: academicons/google-scholar
+          url: https://scholar.google.com/citations?user=O05Nfd0AAAAJ&hl=en
+        - text: ResearchGate
+          icon: academicons/researchgate
+          url: https://www.researchgate.net/
+        - text: ORCID
+          icon: academicons/orcid
+          url: https://orcid.org/my-orcid?orcid=0000-0001-9609-1354
+        - text: GitHub
+          icon: brands/github
+          url: https://github.com/hadichoubdar
+        - text: X (Twitter)
+          icon: brands/x-twitter
+          url: https://x.com/HChoubdar
+        - text: CV
+          icon: academicons/cv
+          url: /uploads/cv.pdf
+        - text: Contact Me
+          icon: hero/envelope
+          url: mailto:hadi.choubdarparvin@mail.mcgill.ca
 ---
