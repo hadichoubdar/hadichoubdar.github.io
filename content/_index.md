@@ -37,7 +37,7 @@ sections:
           url: https://www.researchgate.net/
         - text: ORCID
           icon: academicons/orcid
-          url: https://orcid.org/my-orcid?orcid=0000-0001-9609-1354
+          url: https://orcid.org/0000-0001-9609-1354
         - text: GitHub
           icon: brands/github
           url: https://github.com/hadichoubdar
