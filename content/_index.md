@@ -42,7 +42,7 @@ sections:
           icon: brands/github
           url: https://github.com/hadichoubdar
         - text: X (Twitter)
-          icon: brands/x
+          icon: brands/X
           url: https://x.com/HChoubdar
         - text: CV
           icon: academicons/cv
